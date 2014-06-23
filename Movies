@@ -1,7 +1,17 @@
 Movies
 
+<poster>[B]Marv147[/B]</poster>
+<fanart>http://www.war-games.org.uk/wp-content/uploads/2013/05/war-movies-300x194.jpg</fanart>
+<thumbnail></thumbnail>
+ 
 <info>
-<message>[COLOR plum]Please report dead links via Twitter @Marv147[/COLOR]</message>
+<message>[COLOR red]Please report dead links via Twitter @Marv147[/COLOR]</message>
 </info>
 
+<item>
+<title>[B]Three From One[/B]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>https://raw.githubusercontent.com/Marv147/Xunity/master/3from1</link>
+</item>
 
