@@ -1,13 +1,17 @@
-    <info>
-    <message>[COLOR white]Season One[/COLOR]</message>
-    <thumbnail>dummy</thumbnail>
-    </info>
+<poster>Marv147's TV Shows Section</poster>
+<fanart></fanart>
+<thumbnail></thumbnail>
+  
+<info>
+<message>[COLOR white]Season One[/COLOR]</message>
+<thumbnail>dummy</thumbnail>
+</info>
     
-    <item>
-    <title>(1x01)I Wasn't Ready</title>
-    <link>http://173.193.195.153/index.php?file=3224&start=&hd=0&auth=671201669120b7997dc4dde563&type=flv&tv=1</link>
-    <thumbnail>http://oloload.com/wp-content/uploads/2014/06/orange-is-the-new-black-season-1-2013-poster-2.jpg</thumbnail>
-    </item>
+<item>
+<title>(1x01)I Wasn't Ready</title>
+<link>http://173.193.195.153/index.php?file=3224&start=&hd=0&auth=671201669120b7997dc4dde563&type=flv&tv=1</link>
+<thumbnail>http://oloload.com/wp-content/uploads/2014/06/orange-is-the-new-black-season-1-2013-poster-2.jpg</thumbnail>
+</item>
      
     <item>
     <title>Tit Punch</title>
@@ -82,7 +86,7 @@
     </item>
  
     <info>
-    <message>[COLOR white]Season Two[/COLOR]</message>
+    <message>[COLOR blue]Season Two[/COLOR]</message>
     <thumbnail>dummy</thumbnail>
     </info>
  
