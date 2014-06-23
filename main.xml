@@ -8,14 +8,9 @@ Main
 <message>[COLOR red]Please report any dead links via Twitter @Marv147[/COLOR]</message>
 </info>
 
-<name>Ten Of The Best</name>
-<thumbnail>dummy</thumbnail>
-<link>https://raw.githubusercontent.com/Marv147/Xunity/master/TopTen</link>
-
-<name>Three From One</name>
-<info>Three Films, One famous face</info>
-<thumbnail>dummy</thumbnail>
-<link>https://raw.githubusercontent.com/Marv147/Xunity/master/3from1</link>
+<name>Movies</name>
+<thumbnail>http://www.war-games.org.uk/wp-content/uploads/2013/05/war-movies-300x194.jpg</thumbnail>
+<link>https://raw.githubusercontent.com/Marv147/Xunity/master/Movies</link>
 
 <name>TV Shows</name>
 <thumbnail>http://melificent.com/wp-content/uploads/2009/08/tv_icon.jpg</thumbnail>
