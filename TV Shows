@@ -1,10 +1,15 @@
-<poster>[B]Marv147[/B]</poster>
+<poster>[B]Marv147's TV Section[/B]</poster>
 <fanart></fanart>
 <thumbnail>http://melificent.com/wp-content/uploads/2009/08/tv_icon.jpg</thumbnail>
  
-<item>
-<title>[B]Orange Is The New Black[/B]</title>
-<thumbnail>http://fanart.tv/thumb.php?src=/fanart/tv/264586/tvposter/orange-is-the-new-black-537a1455a02c4.jpg</thumbnail>
+<info>
+<message>Please report any dead links via Twitter @Marv147 or on xunitytalk.com</message>
+</info>
+
+<dir>
+<name>[B]Orange Is The New Black[/B] [COLOR red]NEW!![/COLOR]</name>
 <fanart>http://fanart.tv/thumb.php?src=/fanart/tv/264586/showbackground/orange-is-the-new-black-51ea8dd8abea7.jpg</fanart>
+<thumbnail></thumbnail>
 <link>http://37.58.68.213/index.php?file=50&start=&hd=0&auth=671201669120b7997dc4dde563&type=flv&tv=0</link>
 </item>
+</dir>
