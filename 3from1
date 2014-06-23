@@ -3,73 +3,73 @@ Three From One
 <info>Three Films From One Actor/Actress - but not necessarily their most popular work!</info>
 
 <dir>
-<name>Tom Cruise</name>
+<title>Tom Cruise</title>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTk1MjM3NTU5M15BMl5BanBnXkFtZTcwMTMyMjAyMg@@._V1__SX1859_SY982_.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Marv147/Xunity/master/Tom%20Cruise</link>
 </dir>
 
 <dir>
-<name>Bruce Willis</name>
+<title>Bruce Willis</title>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1__SX1859_SY982_.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Marv147/Xunity/master/Bruce%20Willis<link>
 </dir>
 
 <dir>
-<name>Eddie Murphy</name>
+<title>Eddie Murphy</title>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTc0NDQzODAwNF5BMl5BanBnXkFtZTYwMzUzNTk3._V1__SX1859_SY982_.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Marv147/Xunity/master/Eddie%20Murphy<link>
 </dir>
 
 <dir>
-<name>George Clooney</name>
+<title>George Clooney</title>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMjEyMTEyOTQ0MV5BMl5BanBnXkFtZTcwNzU3NTMzNw@@._V1__SX1859_SY982_.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Marv147/Xunity/master/George%20Clooney<link>
 </dir>
 
 <dir>
-<name>Gerard Butler</name>
+<title>Gerard Butler</title>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMjE4NDMwMzc4Ml5BMl5BanBnXkFtZTcwMDg4Nzg4Mg@@._V1__SX1859_SY982_.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Marv147/Xunity/master/Gerard%20Butler<link>
 </dir>
 
 <dir>
-<name>Jim Carrey</name>
+<title>Jim Carrey</title>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTQwMjAwNzI0M15BMl5BanBnXkFtZTcwOTY1MTMyOQ@@._V1__SX1859_SY982_.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Marv147/Xunity/master/Jim%20Carrey<link>
 </dir>
 
 <dir>
-<name>Julia Roberts</name>
+<title>Julia Roberts</title>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BNTM5NDUzMTE4OF5BMl5BanBnXkFtZTYwMzkwNzMz._V1__SX1859_SY982_.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Marv147/Xunity/master/Julia%20Roberts<link>
 </dir>
 
 <dir>
-<name>Mel Gibson</name>
+<title>Mel Gibson</title>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1__SX1859_SY982_.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Marv147/Xunity/master/Mel%20Gibson<link>
 </dir>
 
 <dir>
-<name>Morgan Freeman</name>
+<title>Morgan Freeman</title>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTc0MDMyMzI2OF5BMl5BanBnXkFtZTcwMzM2OTk1MQ@@._V1__SX1859_SY982_.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Marv147/Xunity/master/Morgan%20Freeman<link>
 </dir>
 
 <dir>
-<name>Samuel L Jackson</name>
+<title>Samuel L Jackson</title>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1__SX1859_SY982_.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Marv147/Xunity/master/Samuel%20L%20Jackson<link>
 </dir>
 
 <dir>
-<name>Sylvester Stallone</name>
+<title>Sylvester Stallone</title>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTQwMTk3NDU2OV5BMl5BanBnXkFtZTcwNTA3MTI0Mw@@._V1__SX1859_SY982_.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Marv147/Xunity/master/Sylvester%20Stallone<link>
 </dir>
 
 <dir>
-<name>Tom Hanks</name>
+<title>Tom Hanks</title>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1__SX1859_SY982_.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Marv147/Xunity/master/Tom%20Hanks<link>
 </dir>
