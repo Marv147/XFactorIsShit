@@ -1,5 +1,3 @@
-Main
-
 <poster>[color 6F4F7F]Marv147 Playlist[/color]</poster>
 <fanart></fanart>
 <thumbnail>dummy</thumbnail>
@@ -8,10 +6,14 @@ Main
 <message>[COLOR red]Please report any dead links via Twitter @Marv147[/COLOR]</message>
 </info>
 
+<dir>
 <name>Movies</name>
 <thumbnail>http://www.war-games.org.uk/wp-content/uploads/2013/05/war-movies-300x194.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Marv147/Xunity/master/Movies</link>
+</dir>
 
+<dir>
 <name>TV Shows</name>
 <thumbnail>http://melificent.com/wp-content/uploads/2009/08/tv_icon.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Marv147/Xunity/master/TV%20Shows</link>
+</dir>
