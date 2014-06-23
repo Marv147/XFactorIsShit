@@ -1,20 +1,20 @@
 <poster>[B]Marv147 Movies Section[/B]</poster>
-<fanart>http://www.war-games.org.uk/wp-content/uploads/2013/05/war-movies-300x194.jpg</fanart>
-<thumbnail></thumbnail>
+<fanart>https://raw.githubusercontent.com/Coolwavexunitytalk/images/master/marv147.png</fanart>
+<thumbnail>http://www.war-games.org.uk/wp-content/uploads/2013/05/war-movies-300x194.jpg</thumbnail>
  
 <info>
 <message>[COLOR red]Please report dead links via Twitter @Marv147[/COLOR]</message>
 </info>
 
 <dir>
-<title>[B]Three From One[/B]</title>
+<name>[B]Three From One[/B]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>https://raw.githubusercontent.com/Marv147/Xunity/master/3from1</link>
 </dir>
 
 <dir>
-<title>[B]Ten Of The Best[/B]</title>
+<name>[B]Ten Of The Best[/B]</name>
 <thumbnail>http://1.bp.blogspot.com/-TzcIHHuSbCg/Tuone5bDI6I/AAAAAAAAAEc/nsXkJEVAK3c/s400/Top+Ten+Dude.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Marv147/Xunity/master/TopTen</link>
 </dir>
