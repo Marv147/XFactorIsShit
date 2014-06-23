@@ -1,13 +1,13 @@
 <poster>[B]Marv147's TV Section[/B]</poster>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/Coolwavexunitytalk/images/master/marv147.png</fanart>
 <thumbnail>http://melificent.com/wp-content/uploads/2009/08/tv_icon.jpg</thumbnail>
  
 <info>
 <message>Please report any dead links via Twitter @Marv147 or on xunitytalk.com</message>
 </info>
 
-<dir>
+<item>
 <name>[B]Orange Is The New Black[/B][COLOR red]NEW!![/COLOR]</name>
 <thumbnail>http://fanart.tv/thumb.php?src=/fanart/tv/264586/showbackground/orange-is-the-new-black-51ea8dd8abea7.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Marv147/Xunity/master/Orange%20Is%20The%20New%20Black</link>
-</dir>
+</item>
