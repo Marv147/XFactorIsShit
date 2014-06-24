@@ -7,14 +7,14 @@
 </info>
 
 <dir>
-<name>Movies</name>
+<name>[B]Movies[/B]</name>
 <thumbnail>http://www.war-games.org.uk/wp-content/uploads/2013/05/war-movies-300x194.jpg</thumbnail>
 <fanart></fanart>
 <link>https://raw.githubusercontent.com/Marv147/Xunity/master/Movies</link>
 </dir>
 
 <dir>
-<name>TV Shows</name>
+<name>[B]TV Shows[/B]</name>
 <thumbnail>http://melificent.com/wp-content/uploads/2009/08/tv_icon.jpg</thumbnail>
 <fanart></fanart>
 <link>https://raw.githubusercontent.com/Marv147/Xunity/master/TV%20Shows</link>
@@ -25,4 +25,10 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link></link>
+</dir>
+
+<dir>
+<name>[B]Exercise[/B] [COLOR red]*NEW*[/COLOR]</name>
+<thumbnail></thumbnail>
+<link>https://raw.githubusercontent.com/Marv147/Xunity/master/exercise</link>
 </dir>
