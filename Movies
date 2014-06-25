@@ -8,6 +8,12 @@
 </info>
 
 <dir>
+<name>[B]1080p Films[/B]</name>
+<thumbnail>http://www.alarms-tallaght.com/images/Logo-Full-HD.jpg</thumbnail>
+<link>https://raw.githubusercontent.com/Marv147/Xunity/master/1080p</link>
+</dir>
+
+<dir>
 <name>[B]Three From One[/B]</name>
 <thumbnail>dummy</thumbnail>
 <link>https://raw.githubusercontent.com/Marv147/Xunity/master/3from1</link>
@@ -19,10 +25,5 @@
 <link>https://raw.githubusercontent.com/Marv147/Xunity/master/TopTen</link>
 </dir>
 
-<dir>
-<name>[B]1080P Films[/B]</name>
-<thumbnail>http://www.alarms-tallaght.com/images/Logo-Full-HD.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Marv147/Xunity/master/1080p</link>
-</dir>
 
 
