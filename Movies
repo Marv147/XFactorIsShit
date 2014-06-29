@@ -8,6 +8,12 @@
 </info>
 
 <dir>
+<name>[B]720p Box Sets[/B]</name>
+<thumbnail>http://www.dcctvsecurity.com/images/upload/Image/20120715/720p%20Hd.jpg</thumbnail>
+<link>https://raw.githubusercontent.com/Marv147/Xunity/master/720p%20Boxsets</link>
+</dir>
+
+<dir>
 <name>[B]1080p Films[/B] [COLOR red] NEW!! [/COLOR]</name>
 <thumbnail>http://www.alarms-tallaght.com/images/Logo-Full-HD.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Marv147/Xunity/master/1080p</link>
